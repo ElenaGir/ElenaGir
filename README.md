@@ -1,7 +1,7 @@
 ## Hello I'm Elena 👋
 ### I'm passionate UI Developer from France
 
-## [My Portfolio](https://elenagir.github.io/) ## [My Linkedin](https://www.linkedin.com/in/elena-girard/)
+## [My Portfolio](https://elenagir.github.io/)           [My Linkedin](https://www.linkedin.com/in/elena-girard/)
 
 
 ## Technologies
