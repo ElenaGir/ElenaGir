@@ -1,7 +1,8 @@
 ## Hello I'm Elena 👋
 ### I'm passionate UI Developer from France
 
-portfolio linkedin 
+
+[My Linkedin](https://www.linkedin.com/in/elena-girard/)
 
 ## Technologies
 
