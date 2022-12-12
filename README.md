@@ -1,6 +1,6 @@
 ### Hello I'm Elena 👋
-[![forthebadge]()](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
 
 
