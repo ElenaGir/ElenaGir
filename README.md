@@ -7,10 +7,12 @@ portfolio linkedin
 
 ### WEB
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,symfony,linux,git,webpack)](https://skillicons.dev)
 
 
 ### UI/UX
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
 
 
